@@ -1,0 +1,34 @@
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\bin\Debug\mrhefer.exe.config
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\bin\Debug\mrhefer.exe
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\bin\Debug\mrhefer.pdb
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.csprojResolveAssemblyReference.cache
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\MainWindow.baml
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\MainWindow.g.cs
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\App.g.cs
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer_MarkupCompile.cache
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.g.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.Properties.Resources.resources
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.csproj.GenerateResource.Cache
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.exe
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mrhefer.pdb
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\Menu.baml
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\Menu.g.cs
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mats.baml
+c:\users\rezafta\documents\visual studio 2012\Projects\mrhefer\mrhefer\obj\Debug\mats.g.cs
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\bin\Debug\mrhefer.exe.config
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.exe
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.pdb
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\bin\Debug\mrhefer.exe
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\bin\Debug\mrhefer.pdb
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.csprojResolveAssemblyReference.cache
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\MainWindow.baml
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mats.baml
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\Menu.baml
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\MainWindow.g.cs
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mats.g.cs
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\Menu.g.cs
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\App.g.cs
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer_MarkupCompile.cache
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.g.resources
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.Properties.Resources.resources
+C:\Users\rezafta\Desktop\mrhefer\mrhefer\obj\Debug\mrhefer.csproj.GenerateResource.Cache
